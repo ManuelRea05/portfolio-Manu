@@ -432,6 +432,8 @@ footer .arriba{
     }
     .nav-responsive{
         display: block;
+        position: absolute;
+        right: 20px;
     }
     nav.responsive{
         display: block;
