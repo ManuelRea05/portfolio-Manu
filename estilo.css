@@ -432,8 +432,6 @@ footer .arriba{
     }
     .nav-responsive{
         display: block;
-        margin-right: auto;
-        margin-left: 370px;
     }
     nav.responsive{
         display: block;
@@ -452,6 +450,11 @@ footer .arriba{
     }
 }
 @media screen and (max-width:700px){
+    .nav-responsive{
+        display: block;
+        margin-right: auto;
+        margin-left: 370px;
+    }
     .sobremi .fila{
         display: block;
     }
